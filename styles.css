@@ -1,0 +1,158 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.hide {
+    display: none;
+}
+
+section {
+    padding: 1pc;
+    margin: 1pc;
+}
+
+.sectionOne {
+    border: .1pc solid turquoise;
+}
+
+article {
+    padding: 2pc;
+}
+
+.colorbox, .favbox {
+    padding: 1pc;
+}
+
+
+.color {
+    height: 2.5pc;
+    width: 10pc;
+    padding: 1pc;
+    border: none;
+    border-radius: 4pc;
+    margin: .5pc;
+}
+
+.red {
+    background-color: red;
+    color: white;
+}
+
+
+.blue {
+    background-color: blue;
+    color: white;
+}
+
+
+.yellow {
+    background-color: yellow;
+    color: black;
+}
+
+
+.cyan {
+    background-color: cyan;
+    color: white;
+}
+
+
+.lightblue {
+    background-color: lightblue;
+    color: white;
+}
+
+
+.skyblue {
+    background-color: skyblue;
+    color: white;
+}
+
+
+.navy {
+    background-color: navy;
+    color: white;
+}
+
+
+.purple {
+    background-color: purple;
+    color: white;
+}
+
+
+.green {
+    background-color: green;
+    color: white;
+}
+
+
+.darkblue {
+    background-color: darkblue;
+    color: white;
+
+}
+
+.darkred {
+    background-color:darkred;
+    color: white;
+}
+
+.gold {
+    background-color: gold;
+    color: white;
+}
+
+
+.goldenrod {
+    background-color: goldenrod;
+    color: white;
+}
+
+
+.turquise {
+    background-color: turquoise;
+    color: white;
+}
+
+.greenyellow {
+    background-color: greenyellow;
+    color: white;
+}
+
+
+.gray {
+    background-color: gray;
+    color: white;
+}
+
+
+.lightgray {
+    background-color: lightgray;
+    color: white;
+}
+
+.black {
+    background-color: black;
+    color: white;
+}
+
+
+.maroon {
+    background-color: maroon;
+    color: white;
+}
+
+
+.lightgreen {
+    background-color: lightgreen;
+    color: white;
+}
+
+
+
+.color:hover {
+    background-color: darkgrey;
+}
